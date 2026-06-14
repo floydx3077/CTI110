@@ -1,6 +1,6 @@
 # Xavier Floyd
 # 6/13/2026
-# P1HW1
+# P1HW2
 # A program that calculates the travel expenses of user using basic math on the numbers entered
 
 '''
