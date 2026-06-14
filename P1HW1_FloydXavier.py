@@ -14,7 +14,7 @@ print("\n")
 print(base, "raised to the power of", exponent, "is", base**exponent, "!!")
 print("\n")
 
-# Caculate Exponents
+# Caculate Addition and Subtraction
 print("----------Addition and Subtraction----------\n")
 
 # User input
